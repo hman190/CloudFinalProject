@@ -129,3 +129,5 @@ SHUTDOWN_MSG: Shutting down NameNode at localhost.localdomain/127.0.0.1
 時機操作上遇到建構前述左側之item matrix的問題，卡在利用mapreduce的辦法建構矩陣的部份
 
 另外，此套方法為我自己想到的，在判斷是否該推薦的地方也不太嚴謹
+
+我所使用的data和徐承志同學所使用的來源相同
